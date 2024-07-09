@@ -1,0 +1,2 @@
+5:24:3 => first log message!
+5:24:3 => /home/book/projects/mprpc/example/callee/userservice.cc:main:47
